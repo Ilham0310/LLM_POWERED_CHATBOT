@@ -1,0 +1,12 @@
+chatbot_for_database/
+├── final11.py                 # Streamlit hospital chatbot app
+├── requirements.txt           # Dependencies
+├── static/                    # Frontend files
+│   ├── style.css
+│   └── script.js
+├── templates/                 # HTML frontend template
+│   └── index.html
+├── directory.txt              # Project structure reference
+├── README.md                  # Project documentation
+├── env/                       # Local Python virtual environment (ignored)
+└── venv/                      # Local Python virtual environment (ignored)
